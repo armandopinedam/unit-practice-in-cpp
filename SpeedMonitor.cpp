@@ -1,6 +1,10 @@
 #include <iostream>
 #include <random> 
 #include <string>
+
+#include "IOTCloudCommunicator.h"
+#include "BNFSpeedSensor.h"
+
 using namespace std;
 
 class SpeedMonitor{
