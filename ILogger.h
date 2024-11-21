@@ -1,6 +1,6 @@
 #include <string>
 using namespace std;
-class Ilogger{
+class ILogger{
   public:
     virtual void write(const string& msg)=0;
 }
