@@ -18,7 +18,7 @@ enable_testing()
 add_compile_options("--coverage")
 add_executable(
   cleancode
-
+  SpeedMonitor.cpp
 )
 target_link_libraries(
   cleancode
