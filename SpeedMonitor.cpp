@@ -4,6 +4,7 @@
 
 
 #include "SpeedMonitor.h"
+#include "ILogger.h"
 
 #include "IOTCloudCommunicator.h"
 #include "BNFSpeedSensor.h"
